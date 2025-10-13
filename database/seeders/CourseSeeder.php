@@ -28,6 +28,11 @@ class CourseSeeder extends Seeder
                 'description' => 'Fundamental Chemistry Principles',
                 'video_id' => 'd5459916-1629-4425-a60b-7879fafbf9d0',
             ],
+            [
+                'title' => 'Long Video',
+                'description' => 'Looong Video',
+                'video_id' => '34341e3c-698d-42e6-bac5-81e337f23e0d',
+            ],
         ];
 
         foreach ($courses as $course) {
