@@ -39,6 +39,6 @@ return [
         'api_key' => env('BUNNY_API_KEY'),
         'library_id' => env('BUNNY_LIBRARY_ID'),
         'cdn_url' => env('BUNNY_CDN_URL'),
+        'pull_zone_url' => env('BUNNY_PULL_ZONE_URL'),
     ],
-
 ];
